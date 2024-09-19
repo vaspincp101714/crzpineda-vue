@@ -1,2 +1,2 @@
-# crzpineda-vue
+# cruzpineda-vue
 Practica VUE
